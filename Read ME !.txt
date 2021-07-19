@@ -1,0 +1,7 @@
+1.Run  Automate.py file in any Python 3.9+ IDE.
+2.Modules to be downloaded are pytesseract and Py-OCR.
+3. MAKE SURE ALL THE DISPLAY COORDINATES ARE SET ACCORDING TO USERS'S DEVICE.
+
+Email : vancher571@gmail.com	
+insta : dont_Call_vancher
+PASS : Ashu6261319133
